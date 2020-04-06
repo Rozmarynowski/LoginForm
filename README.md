@@ -11,4 +11,4 @@ _____
 Second example of login form:
 ![alt text](https://github.com/Rozmarynowski/LoginForm/blob/master/Screens/ScreenLoginForm2.PNG)
 _____
-![alt text](https://github.com/Rozmarynowski/LoginForm/blob/master/Screens/ScreenLoginForm1_2.PNG)
+![alt text](https://github.com/Rozmarynowski/LoginForm/blob/master/Screens/ScreenLoginForm2_2.PNG)
